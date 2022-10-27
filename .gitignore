@@ -2,3 +2,5 @@
 .env
 .venv
 *.bat
+*.txt
+to_json.py
